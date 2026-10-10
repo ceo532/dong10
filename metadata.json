@@ -1,0 +1,6 @@
+{
+  "name": "BÀI KIỂM TRA TIẾNG ANH – TRỊNH ĐÔNG",
+  "description": "Hệ thống làm bài thi, tra cứu đáp án và sổ tay từ vựng chuẩn bị cho kỳ thi tuyển sinh vào lớp 10 của học sinh Trịnh Đông.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
